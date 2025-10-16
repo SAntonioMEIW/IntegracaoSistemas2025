@@ -3,6 +3,6 @@
 
 UC: Integraão de Sistemas
 
-Actividade 1 - UC de Integração de Sistemas
+Actividade 1 - Criação de conta e repositório
 
 
